@@ -14,7 +14,7 @@
 - set `DB_URI` to your local datbase
   - i.e `mongodb://localhost:27017/<name-of-db>`
   - or a cloud connection string, i.e mongodb atlas
-- set `SESSION_SECRET` to a random strin of your choice
+- set `SESSION_SECRET` to a random string of your choice
 
 ## Install dependencies
 
